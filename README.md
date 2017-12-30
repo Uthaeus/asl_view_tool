@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+AslViewTool::Renderer.copyright 'ASL Salon', 'All rights reserved'
+```
 
 ## Development
 
